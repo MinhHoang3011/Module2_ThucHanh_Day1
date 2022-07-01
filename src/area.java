@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class operatorexpestion {
+public class area {
     public static void main(String[] args) {
         float width;
         float height;
