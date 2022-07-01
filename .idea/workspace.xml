@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8cfcdc1f-5202-4352-954f-dd13c1ef0093" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/operatorexpestion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/equation.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +45,7 @@
     "nodejs_package_manager_path": "npm"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.operatorexpestion">
+  <component name="RunManager" selected="Application.equation">
     <configuration name="Systemtime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Systemtime" />
       <module name="ThucHanhDay1" />
@@ -55,15 +53,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main" />
+    <configuration name="area" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="area" />
       <module name="ThucHanhDay1" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="operatorexpestion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="operatorexpestion" />
+    <configuration name="equation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="equation" />
+      <module name="ThucHanhDay1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main" />
       <module name="ThucHanhDay1" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -84,7 +89,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.operatorexpestion" />
+        <item itemvalue="Application.equation" />
+        <item itemvalue="Application.area" />
         <item itemvalue="Application.main" />
         <item itemvalue="Application.Systemtime" />
       </list>
@@ -98,7 +104,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1656644979691</updated>
-      <workItem from="1656644981613" duration="1735000" />
+      <workItem from="1656644981613" duration="2385000" />
     </task>
     <servers />
   </component>
